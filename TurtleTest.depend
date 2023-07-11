@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1687789405 source:c:\users\korisnik\documents\turtletest\main.c
+	<stdlib.h>
+	"turtle.h"
+
+1687789432 source:c:\users\korisnik\documents\turtletest\turtle.c
+	<stdio.h>
+	"turtle.h"
+
+1687789401 c:\users\korisnik\documents\turtletest\turtle.h
+	<stdio.h>
+
+1689006671 source:c:\users\petar\projekti\turtletest\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"turtle.h"
+
+1689001001 c:\users\petar\projekti\turtletest\turtle.h
+	<stdio.h>
+
+1689002125 source:c:\users\petar\projekti\turtletest\turtle.c
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"turtle.h"
+
